@@ -1,0 +1,22 @@
+.jumbotron {
+    background-image: url("https://imgur.com/htM0mjj.jpg");
+    background-size: 100% 250px;
+    min-height: 250px;
+  }
+
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    background-color:#eefdfd;
+    color: black;
+ }
+
+ body{
+    background-image: url("https://imgur.com/2hMvy7c.jpg");
+    background-image: cover;
+    background-repeat: no-repeat;
+ }
