@@ -10,23 +10,26 @@ footer {
     left: 0;
     bottom: 0;
     width: 100%;
-    color: white;
-    background-color: #8b0000;
+    background-color:#BE1E2D;
     color: black;
  }
 
- body{
-    background-image: url("https://imgur.com/2hMvy7c.jpg");
+body{
+    background-image: url("https://imgur.com/G5KdMiJ.jpg");
     background-size: cover;
     background-repeat: no-repeat;
  }
 
- .card-img-top {
+.card-img-top {
     width: 100%;
     height: 20vw;
     object-fit: cover;
 }
 
-img:hover{
+img:hover {
  transform: scale(1.1);
+}
+
+h1{
+    font-family: 'Spectral', serif;
 }
